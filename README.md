@@ -7,7 +7,6 @@ This Power BI dashboard provides insights into customer shopping behavior, sales
 ---
 
 ## 📊 Dashboard Overview
-
 Key insights included in the report:
 
 - 🛍️ Top-selling products and categories  
