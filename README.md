@@ -62,9 +62,6 @@ This dashboard helps understand sales patterns and identify areas where business
 ⭐ *Feel free to fork, explore and improve the project!*
 ---
 
-## 📄 Resume
-
-👉 [Click here to download my resume](Monika_M_Data_Analyst_Resume.pdf)
 
 
 
